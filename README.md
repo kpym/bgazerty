@@ -8,10 +8,10 @@ In [Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/detail
 1. I opened an existing keyboard layout: `File` » `Load Existing Keyboard...` » `French (France)`.
 2. I added to the system the Bulgarian (Bulgaria) phonetic layout.
 3. I modified the keyboard to obtain the following layout:
-    ![](images/bgazerty_normal.png)
-    ![](images/bgazerty_shift.png)
-    ![](images/bgazerty_altgr.png)
-    ![](images/bgazerty_altgr_shift.png)
+    ![bgazerty - Main layout](images/bgazerty_normal.png)
+    ![bgazerty - Shift layout](images/bgazerty_shift.png)
+    ![bgazerty - AltGr layout](images/bgazerty_altgr.png)
+    ![bgazerty - AltGr + Shift layout](images/bgazerty_altgr_shift.png)
 
 **Warning:** The Microsoft Keyboard Layout Creator application dates from 2007. It still works perfectly and works under Windows 10, but you may encounter a bug.
 
